@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "blockmark:block/produce_display",
+    "front": "blockmark:block/produce_display",
+    "side": "blockmark:block/produce_display_side"
+  }
+}

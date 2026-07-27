@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blockmark:block/wall_shelf"
+    },
+    "facing=south": {
+      "model": "blockmark:block/wall_shelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blockmark:block/wall_shelf",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "blockmark:block/wall_shelf",
+      "y": 90
+    }
+  }
+}

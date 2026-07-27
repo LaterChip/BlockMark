@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blockmark:block/produce_display"
+    },
+    "facing=south": {
+      "model": "blockmark:block/produce_display",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blockmark:block/produce_display",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "blockmark:block/produce_display",
+      "y": 90
+    }
+  }
+}

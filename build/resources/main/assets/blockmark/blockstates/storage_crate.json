@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "blockmark:block/storage_crate"
+    }
+  }
+}

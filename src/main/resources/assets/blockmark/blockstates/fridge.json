@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blockmark:block/fridge"
+    },
+    "facing=south": {
+      "model": "blockmark:block/fridge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blockmark:block/fridge",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "blockmark:block/fridge",
+      "y": 90
+    }
+  }
+}

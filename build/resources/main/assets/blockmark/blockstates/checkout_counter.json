@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blockmark:block/checkout_counter"
+    },
+    "facing=south": {
+      "model": "blockmark:block/checkout_counter",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blockmark:block/checkout_counter",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "blockmark:block/checkout_counter",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "blockmark:block/open_cooler",
+    "front": "blockmark:block/open_cooler",
+    "side": "blockmark:block/open_cooler_side"
+  }
+}

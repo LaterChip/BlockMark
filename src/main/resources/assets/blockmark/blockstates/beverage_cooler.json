@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blockmark:block/beverage_cooler"
+    },
+    "facing=south": {
+      "model": "blockmark:block/beverage_cooler",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blockmark:block/beverage_cooler",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "blockmark:block/beverage_cooler",
+      "y": 90
+    }
+  }
+}

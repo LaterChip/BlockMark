@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "blockmark",
+  "version": "${version}",
+  "name": "BlockMark",
+  "description": "Adds a supermarket to Minecraft with 18 product categories, shelving systems, refrigeration, checkout counters, and more!",
+  "authors": ["BlockMark Team"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/blockmark/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.blockmark.mod.BlockMarkMod"],
+    "client": ["com.blockmark.mod.BlockMarkModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.20.0",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

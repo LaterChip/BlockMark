@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "blockmark:block/glass_cabinet"
+    },
+    "facing=south": {
+      "model": "blockmark:block/glass_cabinet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "blockmark:block/glass_cabinet",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "blockmark:block/glass_cabinet",
+      "y": 90
+    }
+  }
+}
